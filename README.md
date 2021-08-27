@@ -1,4 +1,4 @@
-A MERN project wherin it gathers various user information such as name, email and gender. 
+A MERN project wherein it gathers various user information such as name, email and gender. 
 
 In this project, you can:
 - add a new user
